@@ -1,0 +1,52 @@
+[
+  {
+    "drinkName": "Margarita",
+    "drinkType": "Cocktail",
+    "timeToMake": 6
+  },
+  {
+    "drinkName": "Martini",
+    "drinkType": "Cocktail",
+    "timeToMake": 4
+  },
+  {
+    "drinkName": "Negroni",
+    "drinkType": "Cocktail",
+    "timeToMake": 5
+  },
+  {
+    "drinkName": "Old Fashioned",
+    "drinkType": "Cocktail",
+    "timeToMake": 6
+  },
+  {
+    "drinkName": "Cosmopolitan",
+    "drinkType": "Cocktail",
+    "timeToMake": 6
+  },
+  {
+    "drinkName": "Piña Colada",
+    "drinkType": "Cocktail",
+    "timeToMake": 6
+  },
+  {
+    "drinkName": "Whiskey Sour",
+    "drinkType": "Cocktail",
+    "timeToMake": 5
+  },
+  {
+    "drinkName": "Daiquiri",
+    "drinkType": "Cocktail",
+    "timeToMake": 5
+  },
+  {
+    "drinkName": "Mojito",
+    "drinkType": "Cocktail",
+    "timeToMake": 6
+  },
+  {
+    "drinkName": "Tom Collins",
+    "drinkType": "Cocktail",
+    "timeToMake": 5
+  }
+]

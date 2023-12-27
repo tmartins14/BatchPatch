@@ -1,0 +1,284 @@
+{
+  "1": {
+    "orderTime": "2023-12-15T22:00:00.000Z",
+    "drinks": {
+      "Whiskey Sour": {
+        "amount": 2,
+        "timeToMake": 5
+      },
+      "Cosmopolitan": {
+        "amount": 3,
+        "timeToMake": 6
+      },
+      "Daiquiri": {
+        "amount": 2,
+        "timeToMake": 5
+      },
+      "Negroni": {
+        "amount": 2,
+        "timeToMake": 5
+      },
+      "Old Fashioned": {
+        "amount": 3,
+        "timeToMake": 6
+      },
+      "Margarita": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Piña Colada": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Tom Collins": {
+        "amount": 3,
+        "timeToMake": 5
+      },
+      "Martini": {
+        "amount": 2,
+        "timeToMake": 4
+      }
+    }
+  },
+  "2": {
+    "orderTime": "2023-12-15T22:02:41.000Z",
+    "drinks": {
+      "Whiskey Sour": {
+        "amount": 2,
+        "timeToMake": 5
+      },
+      "Cosmopolitan": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Mojito": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Piña Colada": {
+        "amount": 3,
+        "timeToMake": 6
+      },
+      "Daiquiri": {
+        "amount": 2,
+        "timeToMake": 5
+      },
+      "Martini": {
+        "amount": 2,
+        "timeToMake": 4
+      },
+      "Negroni": {
+        "amount": 2,
+        "timeToMake": 5
+      }
+    }
+  },
+  "3": {
+    "orderTime": "2023-12-15T22:04:41.000Z",
+    "drinks": {
+      "Martini": {
+        "amount": 2,
+        "timeToMake": 4
+      },
+      "Cosmopolitan": {
+        "amount": 4,
+        "timeToMake": 6
+      },
+      "Piña Colada": {
+        "amount": 3,
+        "timeToMake": 6
+      },
+      "Daiquiri": {
+        "amount": 3,
+        "timeToMake": 5
+      },
+      "Negroni": {
+        "amount": 3,
+        "timeToMake": 5
+      },
+      "Margarita": {
+        "amount": 2,
+        "timeToMake": 6
+      }
+    }
+  },
+  "4": {
+    "orderTime": "2023-12-15T22:06:41.000Z",
+    "drinks": {
+      "Margarita": {
+        "amount": 5,
+        "timeToMake": 6
+      },
+      "Tom Collins": {
+        "amount": 2,
+        "timeToMake": 5
+      },
+      "Daiquiri": {
+        "amount": 3,
+        "timeToMake": 5
+      },
+      "Cosmopolitan": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Negroni": {
+        "amount": 2,
+        "timeToMake": 5
+      }
+    }
+  },
+  "5": {
+    "orderTime": "2023-12-15T22:08:41.000Z",
+    "drinks": {
+      "Martini": {
+        "amount": 4,
+        "timeToMake": 4
+      },
+      "Old Fashioned": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Whiskey Sour": {
+        "amount": 2,
+        "timeToMake": 5
+      },
+      "Margarita": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Tom Collins": {
+        "amount": 4,
+        "timeToMake": 5
+      },
+      "Mojito": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Daiquiri": {
+        "amount": 2,
+        "timeToMake": 5
+      }
+    }
+  },
+  "6": {
+    "orderTime": "2023-12-15T22:10:41.000Z",
+    "drinks": {
+      "Piña Colada": {
+        "amount": 4,
+        "timeToMake": 6
+      },
+      "Old Fashioned": {
+        "amount": 4,
+        "timeToMake": 6
+      },
+      "Mojito": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Daiquiri": {
+        "amount": 2,
+        "timeToMake": 5
+      }
+    }
+  },
+  "7": {
+    "orderTime": "2023-12-15T22:12:41.000Z",
+    "drinks": {
+      "Old Fashioned": {
+        "amount": 4,
+        "timeToMake": 6
+      },
+      "Tom Collins": {
+        "amount": 4,
+        "timeToMake": 5
+      },
+      "Cosmopolitan": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Whiskey Sour": {
+        "amount": 5,
+        "timeToMake": 5
+      },
+      "Margarita": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Daiquiri": {
+        "amount": 2,
+        "timeToMake": 5
+      }
+    }
+  },
+  "8": {
+    "orderTime": "2023-12-15T22:14:49.000Z",
+    "drinks": {
+      "Piña Colada": {
+        "amount": 4,
+        "timeToMake": 6
+      },
+      "Mojito": {
+        "amount": 4,
+        "timeToMake": 6
+      },
+      "Cosmopolitan": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Margarita": {
+        "amount": 2,
+        "timeToMake": 6
+      }
+    }
+  },
+  "9": {
+    "orderTime": "2023-12-15T22:17:48.000Z",
+    "drinks": {
+      "Tom Collins": {
+        "amount": 2,
+        "timeToMake": 5
+      },
+      "Margarita": {
+        "amount": 3,
+        "timeToMake": 6
+      },
+      "Cosmopolitan": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Mojito": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Martini": {
+        "amount": 2,
+        "timeToMake": 4
+      }
+    }
+  },
+  "10": {
+    "orderTime": "2023-12-15T22:19:49.000Z",
+    "drinks": {
+      "Daiquiri": {
+        "amount": 2,
+        "timeToMake": 5
+      },
+      "Mojito": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Negroni": {
+        "amount": 2,
+        "timeToMake": 5
+      },
+      "Old Fashioned": {
+        "amount": 2,
+        "timeToMake": 6
+      },
+      "Margarita": {
+        "amount": 2,
+        "timeToMake": 6
+      }
+    }
+  }
+}
